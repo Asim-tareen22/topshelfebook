@@ -204,7 +204,7 @@ export function Hero() {
             >
               {/* Main Book Card - Simplified shadows */}
               <div className="relative group">
-                <div className="relative w-96 h-[550px] rounded-3xl overflow-hidden shadow-2xl hover:shadow-[0_40px_80px_rgba(0,0,0,0.5)] transition-shadow duration-500">
+                <div className="relative w-full h-[550px] rounded-3xl overflow-hidden shadow-2xl hover:shadow-[0_40px_80px_rgba(0,0,0,0.5)] transition-shadow duration-500">
                   <Image
                     src="https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&h=1200&fit=crop&q=80"
                     alt="Featured Book"
